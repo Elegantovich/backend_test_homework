@@ -138,9 +138,12 @@ dmypy.json
 *.sublime-workspace
 
 .vscode/
-*.code-workspace
+*.code-wgiorkspace
 
 # Local History for Visual Studio Code
 .history/
 
 .mypy_cache
+
+# игнорировать файл README.md
+README.md
